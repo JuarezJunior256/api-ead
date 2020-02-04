@@ -1,0 +1,15 @@
+{
+  "name": "projeto-ead",
+  "version": "0.0.1",
+  "description": "API para plataforma de ensino EAD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "plataforma",
+    "EAD"
+  ],
+  "author": "Juarez Junior",
+  "license": "ISC"
+}
