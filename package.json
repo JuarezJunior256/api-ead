@@ -15,12 +15,15 @@
   "author": "Juarez Junior",
   "license": "ISC",
   "devDependencies": {
+    "dotenv-safe": "^8.2.0",
     "eslint": "^6.1.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.20.1",
     "nodemon": "^1.19.0"
   },
   "dependencies": {
-    "@hapi/hapi": "^19.1.0"
+    "@hapi/hapi": "^18.3.1",
+    "mongoose": "^5.9.1",
+    "uuid": "^3.4.0"
   }
 }
